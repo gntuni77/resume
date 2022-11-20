@@ -1,0 +1,19 @@
+.myUl{
+    color: blue;
+    width:300px;
+    height: 300px;
+    text-align: justify;
+    font-size: 25px;
+    line-height: 1.5;
+    text-indent: 50px;
+}
+.myWorld{
+    color: red;
+    font-size: 100px;
+    text-align: left;
+    font-family:'Rubik Microbe', cursive;
+    text-decoration: underline;
+}
+.myA{
+    text-decoration: none;
+}
